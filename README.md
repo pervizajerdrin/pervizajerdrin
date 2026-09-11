@@ -25,15 +25,14 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-E5484D?style=for-the-badge)
+![Firewalls](https://img.shields.io/badge/Firewalls-E5484D?style=for-the-badge&logo=firewalla&logoColor=white)
 ![BGP](https://img.shields.io/badge/BGP-1BA0D7?style=for-the-badge)
 ![Fiber Optic](https://img.shields.io/badge/Fiber%20Optic-FF7A00?style=for-the-badge&logo=cablevision&logoColor=white)
+![OLT](https://img.shields.io/badge/OLT-FF7A00?style=for-the-badge)
 ![Coax](https://img.shields.io/badge/Coax-FF7A00?style=for-the-badge)
-![LAN / Ethernet](https://img.shields.io/badge/LAN%20%2F%20Ethernet-1BA0D7?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -41,7 +40,7 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 ```mermaid
 mindmap
-  root((Networking))
+  root((Network & ISP Infrastructure))
     Routing & Switching
       Subnetting
       VLANs
@@ -52,10 +51,11 @@ mindmap
     Security
       Firewalls
       Active Directory
-    Cabling
+    Outside Plant
       Fiber Optic
+      OLT
       Coax
-      LAN / Ethernet
+      Nodes
     MikroTik
       RouterOS
     Simulation
@@ -110,7 +110,7 @@ sequenceDiagram
 
 | Layer | Focus Area |
 |---|---|
-| L1 — Physical | Fiber Optic, Coax, LAN / Ethernet |
+| L1 — Physical | Fiber Optic, OLT, Coax, Nodes |
 | L2 — Data Link | Switching, VLANs |
 | L1/L2 — Wireless | Wireless Essentials |
 | L3 — Network | Routing, Subnetting, BGP |
