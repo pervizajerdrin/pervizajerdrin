@@ -31,6 +31,8 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 ![OLT](https://img.shields.io/badge/OLT-FF7A00?style=for-the-badge)
 ![Coax](https://img.shields.io/badge/Coax-FF7A00?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-1F9A6C?style=for-the-badge&logo=gns3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -40,27 +42,24 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 ```mermaid
 mindmap
-  root((Network & ISP Infrastructure))
+  root((Networking))
     Routing & Switching
-      Subnetting
-      VLANs
       BGP
-      Troubleshooting
+      VLANs
     Wireless
-      Wireless Essentials
     Security
       Firewalls
       Active Directory
-    Outside Plant
+    Physical Layer
       Fiber Optic
       OLT
       Coax
-      Nodes
     MikroTik
-      RouterOS
+    Automation
+      Python
     Simulation
       Packet Tracer
-    IoT
+      GNS3
 ```
 
 ### Network Stack
