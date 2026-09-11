@@ -14,12 +14,7 @@
 
 ### 🧭 About Me
 
-- 🌐 Networking & infrastructure — routing, switching, wireless, and troubleshooting
-- 🎓 CCNA-certified through Cisco: *Introduction to Networks*, *Switching, Routing & Wireless Essentials*, *Networking Basics*, *Introduction to IoT*
-- 🏢 Former IT Coordinator @ Kuvendi i të Rinjve të Prizrenit (2023–2024)
-- 🗣️ Albanian (native) · English (professional) · German (elementary)
-- 📍 Kosovo
-- 📫 `erdrinpervizaj17@gmail.com`
+📍 Kosovo &nbsp;·&nbsp; 🎓 CCNA-certified (Cisco) &nbsp;·&nbsp; 🏢 ex-IT Coordinator @ Kuvendi i të Rinjve të Prizrenit &nbsp;·&nbsp; 🗣️ AL / EN / DE
 
 ### 🧰 Tech & Tools
 
@@ -88,12 +83,6 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 <sub>Click a badge to view its verified Credly credential.</sub>
 
 </div>
-
-### 📚 Focus Areas
-
-- Continuing the CCNA track toward advanced routing/security topics
-- Fiber optic technology
-- MikroTik / RouterOS
 
 ### 📊 GitHub Stats
 
