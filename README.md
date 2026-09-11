@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**pervizajerdrin/pervizajerdrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Contribution Snake
 
-Here are some ideas to get you started:
+![snake gif](https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pervizajerdrin&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pervizajerdrin&layout=compact)
+![Streak Stats](https://streak-stats.demolab.com/?user=pervizajerdrin)
+
+### 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=pervizajerdrin)
