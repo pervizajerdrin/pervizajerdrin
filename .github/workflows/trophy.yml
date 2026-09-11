@@ -19,11 +19,11 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: pervizajerdrin
-          output_path: trophy.svg
+          file: trophy.svg
           theme: radical
           no-frame: true
-          row: 1
-          column: 7
+          max-rows: 1
+          max-cols: 7
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
