@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Erdrin+%F0%9F%91%8B;Networking+%2B+Systems;CCNA+%7C+Infrastructure+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erdrin+%F0%9F%91%8B;Networking+%26+Infrastructure;CCNA+Certified+%F0%9F%8E%93;Based+in+Kosovo+%F0%9F%87%BD%F0%9F%87%B0" alt="Typing SVG" />
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erdrin-pervizaj-71508441b/)
 [![GitHub followers](https://img.shields.io/github/followers/pervizajerdrin?label=Follow&style=social)](https://github.com/pervizajerdrin)
-![Profile views](https://komarev.com/ghpvc/?username=pervizajerdrin&color=blueviolet&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=pervizajerdrin&color=1BA0D7&style=flat)
 
 </div>
 
@@ -13,20 +14,33 @@
 
 ### 🧭 About Me
 
-- 🌐 Into networking, infrastructure, and low-level systems
-- 🎓 CCNA-track — routing, switching, and network design
-- 🛠️ Building things in C and automating my GitHub with Actions
-- 📫 Reach me: `erdrinpervizaj17@gmail.com`
+- 🌐 Networking & infrastructure — routing, switching, wireless, and troubleshooting
+- 🎓 CCNA-certified through Cisco: *Introduction to Networks*, *Switching, Routing & Wireless Essentials*, *Networking Basics*, *Introduction to IoT*
+- 🏢 Former IT Coordinator @ Kuvendi i të Rinjve të Prizrenit (2023–2024)
+- 🗣️ Albanian (native) · English (professional) · German (elementary)
+- 📍 Kosovo
+- 📫 `erdrinpervizaj17@gmail.com`
 
 ### 🧰 Tech & Tools
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### 🎓 Certifications
+
+<div align="center">
+
+![CCNA](https://img.shields.io/badge/CCNA-Switching%2C%20Routing%20%26%20Wireless-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA](https://img.shields.io/badge/CCNA-Introduction%20to%20Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![IoT](https://img.shields.io/badge/Cisco-Introduction%20to%20IoT-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 </div>
 
@@ -66,6 +80,6 @@
 
 <div align="center">
 
-⭐ From [pervizajerdrin](https://github.com/pervizajerdrin)
+⭐ From [pervizajerdrin](https://github.com/pervizajerdrin) · Kosovo 🇽🇰
 
 </div>
