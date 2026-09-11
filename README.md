@@ -171,14 +171,6 @@ sequenceDiagram
 
 </div>
 
-### Trophies
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/trophy.svg" alt="Trophies" />
-
-</div>
-
 ### Contribution Snake
 
 <div align="center">
