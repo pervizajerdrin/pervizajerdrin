@@ -46,10 +46,10 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 | Certification | Issuer | Issued |
 |---|---|---|
-| Switching, Routing & Wireless Essentials | Cisco (CCNA) | Aug 2026 |
-| Introduction to Networks | Cisco (CCNA) | Jul 2026 |
-| Introduction to IoT | Cisco | Jan 2025 |
 | Networking Basics | Cisco | Jan 2025 |
+| Introduction to IoT | Cisco | Jan 2025 |
+| Introduction to Networks | Cisco (CCNA) | Jul 2026 |
+| Switching, Routing & Wireless Essentials | Cisco (CCNA) | Aug 2026 |
 
 </div>
 
@@ -59,34 +59,38 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 <table>
 <tr>
-<td align="center" width="140">
-<a href="https://www.credly.com/badges/f0103eca-43c6-4170-9878-1bc10b0749de"><img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png" width="100" alt="CCNA Switching, Routing and Wireless Essentials" /></a><br />
-<sub>Switching, Routing &amp; Wireless</sub>
+<td align="center" width="160">
+<a href="https://www.credly.com/badges/e17cb2e8-1867-49ae-8e75-115c5e45a578">
+<img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png" width="120" alt="Networking Basics" />
+</a>
+<br /><b>Networking Basics</b><br />
+<img src="https://img.shields.io/badge/Jan%202025-1BA0D7?style=flat-square" alt="Issued Jan 2025" />
 </td>
-<td align="center" width="140">
-<a href="https://www.credly.com/badges/dc714577-433d-43b0-9587-f4ed70649e7e"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" width="100" alt="CCNA Introduction to Networks" /></a><br />
-<sub>Intro to Networks</sub>
+<td align="center" width="160">
+<a href="https://www.credly.com/badges/2497a24c-c693-4f69-852b-0083337ce3a0">
+<img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/linkedin_thumb_Intro2IoT.png" width="120" alt="Introduction to IoT" />
+</a>
+<br /><b>Introduction to IoT</b><br />
+<img src="https://img.shields.io/badge/Jan%202025-1BA0D7?style=flat-square" alt="Issued Jan 2025" />
 </td>
-<td align="center" width="140">
-<a href="https://www.credly.com/badges/e17cb2e8-1867-49ae-8e75-115c5e45a578"><img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png" width="100" alt="Networking Basics" /></a><br />
-<sub>Networking Basics</sub>
+<td align="center" width="160">
+<a href="https://www.credly.com/badges/dc714577-433d-43b0-9587-f4ed70649e7e">
+<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" width="120" alt="CCNA Introduction to Networks" />
+</a>
+<br /><b>Introduction to Networks</b><br />
+<img src="https://img.shields.io/badge/Jul%202026-1BA0D7?style=flat-square" alt="Issued Jul 2026" />
 </td>
-<td align="center" width="140">
-<a href="https://www.credly.com/badges/2497a24c-c693-4f69-852b-0083337ce3a0"><img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/linkedin_thumb_Intro2IoT.png" width="100" alt="Introduction to IoT" /></a><br />
-<sub>Intro to IoT</sub>
+<td align="center" width="160">
+<a href="https://www.credly.com/badges/f0103eca-43c6-4170-9878-1bc10b0749de">
+<img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png" width="120" alt="CCNA Switching, Routing and Wireless Essentials" />
+</a>
+<br /><b>Switching, Routing & Wireless</b><br />
+<img src="https://img.shields.io/badge/Aug%202026-1BA0D7?style=flat-square" alt="Issued Aug 2026" />
 </td>
 </tr>
 </table>
 
 <sub>Click a badge to view its verified Credly credential.</sub>
-
-</div>
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
