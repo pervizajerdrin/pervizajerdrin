@@ -32,6 +32,23 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 </div>
 
+### Skill Map
+
+```mermaid
+mindmap
+  root((Networking))
+    Routing & Switching
+      Subnetting
+      VLANs
+      Troubleshooting
+    Wireless
+      Wireless Essentials
+    Fiber Optic
+    MikroTik
+      RouterOS
+    IoT
+```
+
 ### Network Stack
 
 ```mermaid
@@ -51,6 +68,39 @@ flowchart TB
     AP -.-> Phone:::client
     AP -.-> Tablet:::client
 ```
+
+### Packet Journey
+
+```mermaid
+sequenceDiagram
+    participant C as Client
+    participant AP as Access Switch / AP
+    participant CORE as MikroTik Core
+    participant RT as Router
+    participant FW as Firewall
+    participant WAN as Internet
+
+    C->>AP: Request
+    AP->>CORE: L2/L3 lookup
+    CORE->>RT: Route to WAN
+    RT->>FW: Inspect packet
+    FW->>WAN: Forward
+    WAN-->>FW: Response
+    FW-->>RT: Allow
+    RT-->>CORE: Route back
+    CORE-->>AP: Switch to port
+    AP-->>C: Deliver response
+```
+
+### OSI Layer Map
+
+| Layer | Focus Area |
+|---|---|
+| L1 — Physical | Fiber Optic |
+| L2 — Data Link | Switching, VLANs |
+| L1/L2 — Wireless | Wireless Essentials |
+| L3 — Network | Routing, Subnetting |
+| L2/L3 | MikroTik / RouterOS |
 
 ### Certifications
 
