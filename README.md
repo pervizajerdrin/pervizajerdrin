@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erdrin+%F0%9F%91%8B;Networking+%26+Infrastructure;CCNA+Certified+%F0%9F%8E%93;Based+in+Kosovo+%F0%9F%87%BD%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erdrin;Networking+%26+Infrastructure;CCNA+Certified;Based+in+Kosovo" alt="Typing SVG" />
 
 <br>
 
@@ -12,11 +12,11 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
-📍 Kosovo &nbsp;·&nbsp; 🎓 CCNA-certified (Cisco) &nbsp;·&nbsp; 🏢 ex-IT Coordinator @ Kuvendi i të Rinjve të Prizrenit &nbsp;·&nbsp; 🗣️ AL / EN / DE
+Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ Kuvendi i të Rinjve të Prizrenit &nbsp;·&nbsp; AL / EN / DE
 
-### 🧰 Tech & Tools
+### Tech & Tools
 
 <div align="center">
 
@@ -30,18 +30,7 @@
 
 </div>
 
-### 📡 Core Competencies
-
-```
-Routing & Switching   ████████████████████░░░░  80%
-Wireless Networking   ████████████████░░░░░░░░  65%
-Fiber Optic Systems   ██████████████░░░░░░░░░░  55%
-MikroTik / RouterOS   ██████████████░░░░░░░░░░  55%
-IoT & Embedded Nets   ████████████░░░░░░░░░░░░  50%
-```
-<sub>Self-assessed, evolving with each cert.</sub>
-
-### 🗺️ Network Stack
+### Network Stack
 
 <div align="center">
 
@@ -58,7 +47,7 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 
 </div>
 
-### 🎓 Certifications
+### Certifications
 
 <div align="center">
 
@@ -71,7 +60,7 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 
 </div>
 
-### ✅ Verified Badges
+### Verified Badges
 
 <div align="center">
 
@@ -84,7 +73,7 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 
 </div>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -97,7 +86,7 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 
 </div>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
@@ -108,7 +97,7 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 
 </div>
 
-### 🏆 Trophies
+### Trophies
 
 <div align="center">
 
@@ -120,6 +109,6 @@ IoT & Embedded Nets   ████████████░░░░░░░�
 
 <div align="center">
 
-⭐ From [pervizajerdrin](https://github.com/pervizajerdrin) · Kosovo 🇽🇰
+[pervizajerdrin](https://github.com/pervizajerdrin) · Kosovo
 
 </div>
