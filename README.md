@@ -36,7 +36,7 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/assets/network-stack.svg" alt="Network stack diagram" width="600" />
+<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/assets/network-stack.svg" alt="Network stack diagram" width="700" />
 
 </div>
 
