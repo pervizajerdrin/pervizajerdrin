@@ -52,18 +52,16 @@ flowchart TB
     AP -.-> Tablet:::client
 ```
 
-### Certifications
+### Certification Journey
 
-<div align="center">
-
-| Certification | Issuer | Issued |
-|---|---|---|
-| Networking Basics | Cisco | Jan 2025 |
-| Introduction to IoT | Cisco | Jan 2025 |
-| Introduction to Networks | Cisco (CCNA) | Jul 2026 |
-| Switching, Routing & Wireless Essentials | Cisco (CCNA) | Aug 2026 |
-
-</div>
+```mermaid
+timeline
+    title Cisco Certifications
+    Jan 2025 : Networking Basics
+             : Introduction to IoT
+    Jul 2026 : Introduction to Networks (CCNA)
+    Aug 2026 : Switching, Routing & Wireless Essentials (CCNA)
+```
 
 ### Verified Badges
 
