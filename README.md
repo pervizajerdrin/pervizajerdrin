@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1BA0D7&height=140&section=header&text=Erdrin%20Pervizaj&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" alt="header" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=1BA0D7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Erdrin;Networking+%26+Infrastructure;CCNA+Certified;Based+in+Kosovo" alt="Typing SVG" />
@@ -34,16 +36,7 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 <div align="center">
 
-```
-   ┌────────────┐      ┌────────────┐      ┌────────────┐
-   │   Client    │◄────►│  Switch/AP  │◄────►│   Router    │
-   │  Devices    │      │  (L2/WiFi)  │      │  (L3/WAN)   │
-   └────────────┘      └────────────┘      └──────┬──────┘
-                                                     │
-                          ┌──────────────────────────┴───┐
-                          │   Fiber Optic / MikroTik Core  │
-                          └──────────────────────────────┘
-```
+<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/assets/network-stack.svg" alt="Network stack diagram" width="600" />
 
 </div>
 
@@ -64,10 +57,26 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/f0103eca-43c6-4170-9878-1bc10b0749de"><img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png" width="90" alt="CCNA Switching, Routing and Wireless Essentials" /></a>
-<a href="https://www.credly.com/badges/dc714577-433d-43b0-9587-f4ed70649e7e"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" width="90" alt="CCNA Introduction to Networks" /></a>
-<a href="https://www.credly.com/badges/e17cb2e8-1867-49ae-8e75-115c5e45a578"><img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png" width="90" alt="Networking Basics" /></a>
-<a href="https://www.credly.com/badges/2497a24c-c693-4f69-852b-0083337ce3a0"><img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/linkedin_thumb_Intro2IoT.png" width="90" alt="Introduction to IoT" /></a>
+<table>
+<tr>
+<td align="center" width="140">
+<a href="https://www.credly.com/badges/f0103eca-43c6-4170-9878-1bc10b0749de"><img src="https://images.credly.com/images/f4ccdba9-dd65-4349-baad-8f05df116443/linkedin_thumb_CCNASRWE__1_.png" width="100" alt="CCNA Switching, Routing and Wireless Essentials" /></a><br />
+<sub>Switching, Routing &amp; Wireless</sub>
+</td>
+<td align="center" width="140">
+<a href="https://www.credly.com/badges/dc714577-433d-43b0-9587-f4ed70649e7e"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/linkedin_thumb_CCNAITN__1_.png" width="100" alt="CCNA Introduction to Networks" /></a><br />
+<sub>Intro to Networks</sub>
+</td>
+<td align="center" width="140">
+<a href="https://www.credly.com/badges/e17cb2e8-1867-49ae-8e75-115c5e45a578"><img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/linkedin_thumb_image.png" width="100" alt="Networking Basics" /></a><br />
+<sub>Networking Basics</sub>
+</td>
+<td align="center" width="140">
+<a href="https://www.credly.com/badges/2497a24c-c693-4f69-852b-0083337ce3a0"><img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/linkedin_thumb_Intro2IoT.png" width="100" alt="Introduction to IoT" /></a><br />
+<sub>Intro to IoT</sub>
+</td>
+</tr>
+</table>
 
 <sub>Click a badge to view its verified Credly credential.</sub>
 
@@ -77,12 +86,7 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pervizajerdrin&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervizajerdrin&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=pervizajerdrin&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
@@ -97,14 +101,6 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 </div>
 
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pervizajerdrin&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -112,3 +108,5 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 [pervizajerdrin](https://github.com/pervizajerdrin) · Kosovo
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1BA0D7&height=100&section=footer" width="100%" alt="footer" />
