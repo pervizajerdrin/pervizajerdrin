@@ -34,11 +34,23 @@ Kosovo &nbsp;·&nbsp; CCNA-certified (Cisco) &nbsp;·&nbsp; ex-IT Coordinator @ 
 
 ### Network Stack
 
-<div align="center">
+```mermaid
+flowchart TB
+    classDef edge fill:#161b22,stroke:#1BA0D7,color:#c9d1d9,stroke-width:1.5px;
+    classDef core fill:#161b22,stroke:#FF7A00,color:#c9d1d9,stroke-width:1.5px;
+    classDef client fill:#0d1117,stroke:#6e7681,color:#8b949e,stroke-width:1px;
+    classDef fw fill:#161b22,stroke:#E5484D,color:#c9d1d9,stroke-width:1.5px;
 
-<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/assets/network-stack.svg" alt="Network stack diagram" width="700" />
-
-</div>
+    Internet((Internet)) --> FW["Firewall"]:::fw
+    FW --> RT["Router<br/>L3 / WAN Edge"]:::edge
+    RT -->|fiber| CORE["MikroTik Core Switch<br/>RouterOS backbone"]:::core
+    CORE --> SW["Access Switch<br/>wired"]:::edge
+    CORE --> AP["Wireless AP<br/>Wi-Fi"]:::edge
+    SW --> Laptop:::client
+    SW --> Desktop:::client
+    AP -.-> Phone:::client
+    AP -.-> Tablet:::client
+```
 
 ### Certifications
 
