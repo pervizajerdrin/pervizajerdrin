@@ -175,7 +175,7 @@ sequenceDiagram
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pervizajerdrin&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/main/trophy.svg" alt="Trophies" />
 
 </div>
 

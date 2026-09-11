@@ -1,0 +1,37 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: pervizajerdrin
+          output_path: trophy.svg
+          theme: radical
+          no-frame: true
+          row: 1
+          column: 7
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "pervizajerdrin@users.noreply.github.com"
+          git config --local user.name "pervizajerdrin"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add trophy.svg
+            git commit -m "Update trophy.svg"
+            git push
+          fi
