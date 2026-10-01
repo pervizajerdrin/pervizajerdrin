@@ -17,3 +17,10 @@ Routing and switching, MikroTik RouterOS, Linux, and network troubleshooting. I 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/erdrin-pervizaj-71508441b/) · [erdrinpervizaj8@gmail.com](mailto:erdrinpervizaj8@gmail.com)
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation following my GitHub contribution calendar" src="https://raw.githubusercontent.com/pervizajerdrin/pervizajerdrin/output/github-contribution-grid-snake.svg" />
+</picture>
