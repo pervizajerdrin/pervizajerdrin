@@ -2,13 +2,12 @@
 
 I work on networking, infrastructure, and software for IT operations. Based in Kosovo.
 
-My projects focus on the practical side of running IT services: keeping track of network devices, managing support requests, and making operational information easier to work with.
+I build small tools for everyday network and service checks, with clear command-line output and automated tests.
 
 ## Projects
 
-- **[ISP Operations](https://github.com/pervizajerdrin/isp-operations)** — Client and service management for ISP networks, with MikroTik monitoring and OLT/ONU inventory.
-- **[Service Desk](https://github.com/pervizajerdrin/service-desk)** — A helpdesk application for support tickets, client records, tasks, and audit logs.
-- **[IT Operations Demo](https://github.com/pervizajerdrin/it-operations-demo)** — A demo application covering network topology, inventory, support tickets, and payments.
+- **[Subnet Notes](https://github.com/pervizajerdrin/subnet-notes)** — A Python command-line tool for inspecting IPv4 and IPv6 subnets, address counts, and host ranges. Supports JSON output.
+- **[Endpoint Watch](https://github.com/pervizajerdrin/endpoint-watch)** — A Python tool for checking HTTP endpoints, reporting response times and failures, and returning results as text or JSON.
 
 ## Contribution snake
 
